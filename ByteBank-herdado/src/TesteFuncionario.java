@@ -11,6 +11,7 @@ public class TesteFuncionario {
 		System.out.println(raian.getNome());
 		System.out.println(raian.getBonificacao());
 		
+		
 	}
 	
 }
